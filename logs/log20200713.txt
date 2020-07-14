@@ -1,0 +1,21 @@
+2020-07-13 23:16:16.753 -03:00 [INF] Starting Amplifier web host
+2020-07-13 23:16:16.928 -03:00 [DBG] Hosting starting
+2020-07-13 23:16:16.951 -03:00 [INF] Worker running at: "2020-07-13T23:16:16.9505034-03:00"
+2020-07-13 23:16:16.956 -03:00 [INF] Application started. Press Ctrl+C to shut down.
+2020-07-13 23:16:16.959 -03:00 [INF] Hosting environment: Development
+2020-07-13 23:16:16.964 -03:00 [INF] Content root path: D:\Projetos\WorkingWithWorker
+2020-07-13 23:16:16.967 -03:00 [DBG] Hosting started
+2020-07-13 23:16:17.980 -03:00 [INF] Acessando site: https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/558/saopaulo-sp
+2020-07-13 23:16:18.405 -03:00 [INF] Temperatura registrada: 22
+2020-07-13 23:17:18.416 -03:00 [INF] Worker running at: "2020-07-13T23:17:18.4164866-03:00"
+2020-07-13 23:17:19.446 -03:00 [INF] Acessando site: https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/558/saopaulo-sp
+2020-07-13 23:17:19.593 -03:00 [INF] Temperatura registrada: 22
+2020-07-13 23:18:19.607 -03:00 [INF] Worker running at: "2020-07-13T23:18:19.6074007-03:00"
+2020-07-13 23:18:20.633 -03:00 [INF] Acessando site: https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/558/saopaulo-sp
+2020-07-13 23:18:20.789 -03:00 [INF] Temperatura registrada: 22
+2020-07-13 23:19:20.821 -03:00 [INF] Worker running at: "2020-07-13T23:19:20.8216746-03:00"
+2020-07-13 23:19:21.830 -03:00 [INF] Acessando site: https://www.climatempo.com.br/previsao-do-tempo/agora/cidade/558/saopaulo-sp
+2020-07-13 23:19:21.956 -03:00 [INF] Temperatura registrada: 22
+2020-07-13 23:19:36.516 -03:00 [INF] Application is shutting down...
+2020-07-13 23:19:36.529 -03:00 [DBG] Hosting stopping
+2020-07-13 23:19:36.546 -03:00 [DBG] Hosting stopped

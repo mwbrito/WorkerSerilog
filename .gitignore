@@ -1,0 +1,5 @@
+# compiled files
+.vscode/
+bin/
+obj/
+Properties/
